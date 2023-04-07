@@ -1,13 +1,8 @@
-# P5 JS For Kids
+# P5 JS For Kids : Swirl Paint
 
-P5.JS for the childrens workshop that I conduct.
+Swirl Paint project.
 
-![swirl and earth](swirlandearth.gif)
-
-# Projects 
-
-1. [SwirlPaint](SwirlPaint) : The main project that kids will learn to build. Flexible and designed for young children to advance child developers.
-1. [MoonandEarth](MoonandEarth) : A challenge for those who want to experiment.
+![swirl paint](SwirlPaint.gif)
 
 # References
 

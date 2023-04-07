@@ -1,13 +1,8 @@
-# P5 JS For Kids
+# P5 JS For Kids : MoonandEarth
 
-P5.JS for the childrens workshop that I conduct.
+moon and earth project.
 
-![swirl and earth](swirlandearth.gif)
-
-# Projects 
-
-1. [SwirlPaint](SwirlPaint) : The main project that kids will learn to build. Flexible and designed for young children to advance child developers.
-1. [MoonandEarth](MoonandEarth) : A challenge for those who want to experiment.
+![Moon and Earth](MoonandEarth.gif)
 
 # References
 
